@@ -1,4 +1,4 @@
-/ pass numInput
+// pass numInput
 function getDogImage(numInput) {
   if (numInput < 3) {
     fetch("https://dog.ceo/api/breeds/image/random/3")
